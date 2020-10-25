@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RiderGameControlExtension.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\litStudioWork\Unreal\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.ShadowErrors.h.obj"
+"C:\litStudioWork\Unreal mobel\testWork2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderGameControlExtension\RiderGameControlExtension.cpp.obj"
+"C:\litStudioWork\Unreal\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\litStudioWork\Unreal mobel\testWork2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderGameControlExtension\UE4Editor-RiderGameControlExtension.lib"
+/INCLUDE:IMPLEMENT_MODULE_RiderGameControlExtension

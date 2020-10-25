@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E39F0389-4FB5-D9A7-18F6-A59BAC8A2EE5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "testWork2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}

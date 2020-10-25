@@ -1,0 +1,10 @@
+{
+	"BuildId": "aca807b2-cb56-4624-a325-335a3141febf",
+	"Modules": 
+	{
+		"RiderBlueprintExtension": "UE4Editor-RiderBlueprintExtension-0007.dll",
+		"RiderGameControlExtension": "UE4Editor-RiderGameControlExtension-0007.dll",
+		"RiderLink": "UE4Editor-RiderLink-0007.dll",
+		"RiderLoggingExtension": "UE4Editor-RiderLoggingExtension-0007.dll"
+	}
+}
