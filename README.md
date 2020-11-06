@@ -1,5 +1,13 @@
 # 腾讯2020公开课作业
 
+## 第三次作业
+### 打包后的apk：
+链接：https://pan.baidu.com/s/1B5ABDKY4wPQBoM2qwt5ZtA 
+提取码：olh3 
+
+### 作业说明
+1. 实现了本地排行榜
+
 ## 第二次作业
 ### 打包后的apk：
 链接：https://pan.baidu.com/s/1B5ABDKY4wPQBoM2qwt5ZtA 
